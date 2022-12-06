@@ -1,0 +1,15 @@
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\bin\Debug\net6.0\Ticket.exe
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\bin\Debug\net6.0\Ticket.deps.json
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\bin\Debug\net6.0\Ticket.runtimeconfig.json
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\bin\Debug\net6.0\Ticket.dll
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\bin\Debug\net6.0\Ticket.pdb
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\obj\Debug\net6.0\Ticket.csproj.AssemblyReference.cache
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\obj\Debug\net6.0\Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\obj\Debug\net6.0\Ticket.AssemblyInfoInputs.cache
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\obj\Debug\net6.0\Ticket.AssemblyInfo.cs
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\obj\Debug\net6.0\Ticket.csproj.CoreCompileInputs.cache
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\obj\Debug\net6.0\Ticket.dll
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\obj\Debug\net6.0\refint\Ticket.dll
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\obj\Debug\net6.0\Ticket.pdb
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\obj\Debug\net6.0\Ticket.genruntimeconfig.cache
+C:\Camilo_Private\Andela\EventCampaign\Ticket\Ticket\obj\Debug\net6.0\ref\Ticket.dll
